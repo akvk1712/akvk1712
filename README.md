@@ -7,7 +7,7 @@ Welcome to my corner of the digital realm! I'm Akshath, a curious explorer of co
 - 🖥️ AI-ML Blacksmith: Forging Powerful Machine Learning Tools
 - 🎨 Thought-to-action-maker: Whipping Ideas into Real and elegant designs.
 - 📚 Eternal Learner: Always in pursuit of knowledge and new skills.
-- 🎮 Gaming Guru: Roaming The Virtual Worlds One Pixel at a Time.
+- 🎮 Gaming Guru: Roaming The Virtual Worlds One Pixel At A Time.
 
 ## 🛠️ Tech Toolbox
 
@@ -32,6 +32,6 @@ When I'm not coding, you can find me:
 - 🎮 Getting lost in virtual worlds
 - 🎨 Painting A Thousand Words.
 
-## 🌈 Join the Adventure
+##  May The Force Be With You.
 
 Buckle up and let's create something amazing together! Feel free to reach out, collaborate, or just have a chat. The journey awaits! 🌟
