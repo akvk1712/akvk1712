@@ -12,13 +12,15 @@ Welcome to my corner of the digital realm! I'm Akshath, a curious explorer of co
 ## 🛠️ Tech Toolbox
 
 - 💻 Languages: C,C++,Python
-- 🌐 Web: Node.js
+- 🌐 Web: HTML,CSS
 - 🛢️ Databases: MongoDB
 - 🎨 Design: Adobe Photoshop,Canva,Autodesk Sketchbook
 
 ## 🌌 Latest Projects
 
 - 🚀 [1](https://github.com/akvk1712/Image-Generator.git): AI Image Generator using OpenAI.
+- 🤖
+[2] AI Chatbot
 
 ## 📫 Let's Connect
 - 💼 LinkedIn:(https://www.linkedin.com/in/akshath-vijay-kumar-313415232/)
