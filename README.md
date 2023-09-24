@@ -19,11 +19,13 @@ Welcome to my corner of the digital realm! I'm Akshath, a curious explorer of co
 ## 🌌 Latest Projects
 
 - 🚀 [1](https://github.com/akvk1712/Image-Generator.git): AI Image Generator using OpenAI.
-- 🤖
+- 🤖 [2](https://github.com/akvk1712/astrd-spctra) Asteroid Spectra Taxonomy using ML
 [2] AI Chatbot
 
 ## 📫 Let's Connect
-- 💼 LinkedIn:(https://www.linkedin.com/in/akshath-vijay-kumar-313415232/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshath-vijay-kumar-313415232)
+- 📝 Blog: [Vect](https://vect.hashnode.dev/)
+
 
 ## 🚴‍♀️ Hobbies & Interests
 
@@ -36,4 +38,4 @@ When I'm not coding, you can find me:
 
 ##  May The Force Be With You.
 
-Buckle up and let's create something amazing together! Feel free to reach out, collaborate, or just have a chat. The journey awaits! 🌟
+ Feel free to reach out, collaborate, or just have a chat. The journey awaits! 🌟
