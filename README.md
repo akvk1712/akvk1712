@@ -8,6 +8,7 @@ Welcome to my corner of the digital realm! I'm Akshath, a curious explorer of co
 - 🎨 Thought-to-action-maker: Whipping Ideas into Real and elegant designs.
 - 📚 Eternal Learner: Always in pursuit of knowledge and new skills.
 - 🎮 Gaming Guru: Roaming The Virtual Worlds One Pixel At A Time.
+-    CoFounder of TheFanTheory (https://www.thefantheory.com/)
 
 ## 🛠️ Tech Toolbox
 
@@ -20,7 +21,8 @@ Welcome to my corner of the digital realm! I'm Akshath, a curious explorer of co
 
 - 🚀 [1](https://github.com/akvk1712/Image-Generator.git): AI Image Generator using OpenAI.
 - 🤖 [2](https://github.com/akvk1712/astrd-spctra) Asteroid Spectra Taxonomy using ML
-[2] AI Chatbot
+- [3] AI Chatbot
+- [4] Quantum Check (https://github.com/akvk1712/Quantum_check)
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/akshath-vijay-kumar-313415232)
